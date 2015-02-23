@@ -1,0 +1,5 @@
+site_name: Dicentis User Guide
+pages:
+- [index.md, Home]
+- [general/install-dicentis.md, Install Dicentis]
+theme: united
